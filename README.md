@@ -1,2 +1,0 @@
-# chess-build
-Chess game
